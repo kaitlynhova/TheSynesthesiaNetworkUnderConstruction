@@ -81,7 +81,8 @@ footer {
 }
 
 footer img {
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   flex-shrink: 0;
 }
 
